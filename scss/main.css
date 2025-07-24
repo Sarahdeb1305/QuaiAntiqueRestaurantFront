@@ -12058,4 +12058,39 @@ footer.footer {
   .galerie-image {
     height: 180px;
   }
+}
+.menu-card {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 40px;
+  background: #fff8f0;
+  border: 2px solid #d4b483;
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  font-family: "Georgia", serif;
+}
+
+.menu-card h2, .menu-card .h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: #b25e2a;
+  border-bottom: 1px solid #e0c097;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.menu-section {
+  margin-bottom: 30px;
+}
+
+.ma-liste {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-section li {
+  font-size: 1.2rem;
+  margin: 8px 0;
+  border-bottom: 1px dotted #ccc;
 }/*# sourceMappingURL=main.css.map */
