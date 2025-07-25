@@ -6,11 +6,12 @@ html {
 }
 
 main {
-  margin-bottom: 250px;
+  margin-bottom: 270px;
 }
 
 .hero-scene {
   position: relative;
+  margin-bottom: 15px;
   &::before {
     content: "";
     position: absolute;
@@ -122,4 +123,8 @@ footer.footer {
   font-size: 1.2rem;
   margin: 8px 0;
   border-bottom: 1px dotted #ccc;
+}
+
+.form-label{
+  color: $primary;
 }
