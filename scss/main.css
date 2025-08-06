@@ -12083,6 +12083,16 @@ footer.footer {
   font-family: "Georgia", serif;
 }
 
+.resa-card {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 40px;
+  background: #fff8f0;
+  border: 2px solid #d4b483;
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
 .menu-card h2, .menu-card .h2 {
   text-align: center;
   font-size: 1.8rem;
@@ -12113,6 +12123,12 @@ footer.footer {
 }
 
 .allreservations a {
+  display: block;
+  color: #292222;
+  padding: 10px;
+}
+
+.maReservation {
   display: block;
   color: #292222;
   padding: 10px;
